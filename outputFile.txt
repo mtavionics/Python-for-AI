@@ -1,0 +1,120 @@
+word --     pattern    -- frequency: 13 
+word --      with      -- frequency: 11 
+word --     regular    -- frequency: 19 
+word --       you      -- frequency: 22 
+word --       for      -- frequency: 18 
+word --      text      -- frequency: 19 
+word --       and      -- frequency: 26 
+word --       the      -- frequency: 59 
+word --       to       -- frequency: 24 
+word --       of       -- frequency: 19 
+word --      phone     -- frequency: 24 
+word --     number     -- frequency: 25 
+word --       if       -- frequency: 14 
+word --       in       -- frequency: 22 
+word --       it       -- frequency: 10 
+word --      code      -- frequency: 10 
+word --       is       -- frequency: 24 
+word --   expressions  -- frequency: 12 
+word --      that      -- frequency: 13 
+word --     string     -- frequency: 13 
+word --  isphonenumber -- frequency: 15 
+word --     return     -- frequency: 11 
+word --      moshi     -- frequency: 10 
+word --      chunk     -- frequency: 12 
+pattern             13  matching            3   with                11  regular             19  
+expression          7   you                 22  may                 2   be                  6   
+familiar            1   searching           1   for                 18  text                19  
+by                  4   pressing            1   ctrl                1   and                 26  
+entering            1   the                 59  word                3   re                  4   
+looking             1   go                  1   one                 2   step                1   
+further             1   they                1   allow               1   to                  24  
+specify             1   of                  19  search              2   not                 8   
+know                5   business            1   exact               1   phone               24  
+number              25  but                 9   if                  14  live                1   
+in                  22  united              1   states              1   or                  4   
+canada              1   it                  10  will                5   three               9   
+digits              3   followed            1   hyphen              7   then                6   
+four                4   more                9   optionally          1   digit               2   
+area                3   code                10  at                  9   start               2   
+thi                 3   is                  24  how                 3   as                  2   
+human               1   when                4   see                 4   we                  4   
+also                4   recognize           1   all                 4   sorts               1   
+other               4   patterns            4   every               1   day                 1   
+email               2   addresses           2   have                6   symbols             1   
+middle              1   us                  1   social              2   security            1   
+numbers             7   nine                1   two                 1   hyphens             1   
+website             1   urls                1   often               1   periods             1   
+forward             1   slashes             1   news                1   headlines           1   
+use                 3   title               1   case                1   media               1   
+hashtags            1   begin               1   contain             1   no                  1   
+spaces              1   chapter             4   expressions         12  are                 3   
+helpful             1   few                 1   non                 1   programmers         2   
+about               2   them                2   even                3   though              1   
+most                1   modern              1   editors             1   processors          1   
+such                2   a                   2   microsoft           1   openof              1   
+ce                  1   nd                  7   replace             2   feature             1   
+that                13  can                 6   based               1   on                  8   
+huge                1   time                1   savers              1   just                1   
+software            1   users               1   fact                1   tech                1   
+writer              1   cory                2   doctorow            2   argues              1   
+should              2   teaching            1   before              1   programming         1   
+knowing             1   mean                1   difference          1   between             1   
+solving             2   problem             1   steps               2   nerd                1   
+forget              1   problems            1   solve               1   cou                 1   
+ple                 1   keystrokes          1   take                1   people              1   
+days                1   tedious             1   error               1   prone               1   
+work                1   slog                1   through             4   this                6   
+ll                  4   writing             1   program             9   out                 1   
+using               2   make                2   much                2   less                3   
+bloated             1   show                1   basic               1   move                1   
+some                1   powerful            1   features            1   string              13  
+substitution        1   creating            1   your                1   own                 1   
+character           7   classes             1   finally             1   end                 1   
+write               2   automatically       1   extract             1   from                3   
+block               1   finding             2   without             1   say                 1   
+want                1   an                  4   american            2   here                2   
+example             5   let                 1   function            8   named               1   
+isphonenumber       15  check               2   whether             3   matches             3   
+returning           1   either              1   true                3   false               9   
+open                1   new                 2   le                  2   editor              1   
+tab                 1   enter               1   following           3   save                1   
+py                  2   def                 1   len                 2   return              11  
+range               4   isdecimal           3   what                3   ict                 2   
+really              1   teach               2   kids                2   do                  2   
+guardian            1   december            1   http                1   www                 1   
+theguardian         1   com                 1   technology          1   dec                 1   
+trueprint           1   print               8   moshi               10  run                 4   
+output              2   looks               1   like                5   trueis              1   
+falsethe            1   has                 1   does                1   several             1   
+checks              5   valid               1   any                 4   these               3   
+fail                2   first               1   i                   1   exactly             1   
+rst                 4   characters          4   consists            1   only                2   
+numeric             2   rest                1   follows             1   must                1   
+after               2   another             2   nally               1   execution           1   
+manages             1   get                 1   past                1   calling             2   
+argument            1   test                1   fails               1   because             1   
+long                2   wanted              1   within              1   larger              1   
+would               5   add                 2   last                1   fmy                 1   
+calls               1   message             9   call                3   me                  7   
+tomorrow            1   my                  1   office              1   chunk               12  
+found               3   done                4   look                1   each                3   
+iteration           3   loop                4   assigned            3   variable            1   
+itera               1   tion                1   next                1   words               1   
+takes               1   value               1   so                  3   pas                 1   
+continue            1   eventually          1   goes                1   entire              1   
+testing             1   piece               1   printing            1   nds                 2   
+satis               1   e                   1   once                1   going               1   
+while               1   short               2   could               2   million             1   
+still               1   than                2   second              2   similar             1   
+quicker             1   previous            1   nding               1   works               1   
+uses                1   lot                 1   something           1   limited             1   
+lines               1   formatted           1   num                 1   ber                 1   
+had                 1   extension           1   validate            1   yet                 1   
+addi                1   tional              1   there               1   easier              1   
+way                 1   called              1   regex               5   descriptions        1   
+pat                 1   tern                1   stands              1   single              1   
+numeral             1   used                1   python              1   match               3   
+same                1   previou             1   did                 1   sophisticated       1   
+adding              1   brace               1   saying              1   times               1   
+slightly            1   shorter             1   correct             1   format              1   
